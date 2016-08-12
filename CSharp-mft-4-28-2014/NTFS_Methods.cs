@@ -209,27 +209,3 @@ namespace CSharp_mft_4_28_2014{
         }//end method write file
     }//end class
 }//end namespace
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
